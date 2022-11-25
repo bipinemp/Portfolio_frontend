@@ -48,7 +48,7 @@ const Home = () => {
           <p>&nbsp;&nbsp;&nbsp;&nbsp;{"</h1>"}</p>
           <p>&nbsp;&nbsp;&nbsp;&nbsp;{"<p>"}</p>
           <div className="paragraph">
-            <p className="frontend">Front End Developer / Beginner</p>
+            <p className="frontend">Front End Developer jkj / Beginner</p>
           </div>
           <p>&nbsp;&nbsp;&nbsp;&nbsp;{"</p>"}</p>
           <button className="contact" onClick={() => navigate("/contact")}>
