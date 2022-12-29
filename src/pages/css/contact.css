@@ -104,14 +104,7 @@
   background: var(--green);
   transition: all 250ms ease;
 }
-/* .not-underline {
-  position: absolute;
-  bottom: 25px;
-  width: 0%;
-  height: 2px;
-  background: var(--green);
-  transition: all 250ms ease;
-} */
+
 .contact-form input:focus ~ .underline {
   width: 90%;
 }
@@ -254,6 +247,7 @@ form input::placeholder {
   .contact-side {
     width: 100%;
   }
+
   .fiverr-div {
     margin-bottom: 20px;
   }

@@ -1,7 +1,5 @@
 /* for Home.js */
 .home-main {
-  width: 100%;
-  height: 100vh;
   display: flex;
 }
 .home {
@@ -56,7 +54,6 @@
 .h1 {
   position: relative;
   height: 40vh;
-  width: 100%;
   display: flex;
   align-items: center;
 }
@@ -134,12 +131,9 @@
 /* for Mobile */
 @media only screen and (max-width: 600px) {
   .home h1 {
-    font-size: 2em;
-    line-height: 40px;
+    font-size: 2.3em;
   }
-  .h1 {
-    height: 20vh;
-  }
+
   .contact {
     font-size: 0.8em;
     padding: 10px 30px;
